@@ -1,4 +1,4 @@
-## Simple GUI to roll a die
+## Simple GUI | Roll a die
 
 <img src="roll_demo.gif">
 
